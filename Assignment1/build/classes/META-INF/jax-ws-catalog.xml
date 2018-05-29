@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.webservicex.net/WeatherForecast.asmx?WSDL" uri="wsdl/www.webservicex.net/WeatherForecast.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.net/CurrencyConvertor.asmx?WSDL" uri="wsdl/www.webservicex.net/CurrencyConvertor.asmx.wsdl"/>
+    <system systemId="http://www.vbws.com/services/weatherretriever.asmx?WSDL" uri="wsdl/www.vbws.com/services/weatherretriever.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.com/globalweather.asmx?WSDL" uri="wsdl/www.webservicex.com/globalweather.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.net/uszip.asmx?WSDL" uri="wsdl/www.webservicex.net/uszip.asmx.wsdl"/>
+    <system systemId="http://ws.cdyne.com/psaddress/addresslookup.asmx?wsdl" uri="wsdl/ws.cdyne.com/psaddress/addresslookup.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.com/currencyconvertor.asmx?WSDL" uri="wsdl/www.webservicex.com/currencyconvertor.asmx.wsdl"/>
+    <system systemId="http://ws.cdyne.com/phoneverify/phoneverify.asmx?wsdl" uri="wsdl/ws.cdyne.com/phoneverify/phoneverify.asmx.wsdl"/>
+    <system systemId="http://ws.cdyne.com/ip2geo/ip2geo.asmx?wsdl" uri="wsdl/ws.cdyne.com/ip2geo/ip2geo.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.net/ConvertTemperature.asmx?WSDL" uri="wsdl/www.webservicex.net/ConvertTemperature.asmx.wsdl"/>
+</catalog>
